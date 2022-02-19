@@ -1,3 +1,4 @@
-CodeUp/
+!CodeUp/
+CodeUp/*
 !CodeUp/*.cpp
 !CodeUp/*.c
