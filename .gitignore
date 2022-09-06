@@ -1,3 +1,4 @@
+.vscode/
 !CodeUp/
 CodeUp/*
 !CodeUp/*.cpp
